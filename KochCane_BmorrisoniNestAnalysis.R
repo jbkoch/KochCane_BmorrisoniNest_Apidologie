@@ -1,5 +1,6 @@
 # Project: Pollen columns and a wax canopy in a first nest description of Bombus (Cullumanobombus) morrisoni (Apidae)
 # R code for simple analysis of cocoon volumes from expired B. morrisoni nest
+# R version 4.1.3 (2022-03-10) -- "One Push-Up"
 
 # load library
 library(dplyr)
